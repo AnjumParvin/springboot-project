@@ -1,0 +1,6 @@
+com\StudentRegisteration\rest\StudentRestController.class
+com\StudentRegisteration\StudentRgistration2Application.class
+com\StudentRegisteration\repo\StudentRepository.class
+com\StudentRegisteration\service\StudentServiceImpl.class
+com\StudentRegisteration\service\StudentService.class
+com\StudentRegisteration\model\Student.class
